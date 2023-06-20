@@ -1,0 +1,6 @@
+2017/08/11 17:01:50 [emerg] 5441#0: unexpected "t" in /etc/nginx/sites-enabled/lel.conf:36
+2017/08/11 17:02:20 [emerg] 5534#0: unexpected "}" in /etc/nginx/sites-enabled/lel.conf:28
+2017/08/11 17:02:48 [emerg] 5626#0: unexpected "}" in /etc/nginx/sites-enabled/lel.conf:28
+2017/08/11 17:03:12 [emerg] 5720#0: unexpected "}" in /etc/nginx/sites-enabled/lel.conf:28
+2017/11/13 16:25:49 [alert] 29907#0: *64843 open socket #33 left in connection 34
+2017/11/13 16:25:49 [alert] 29907#0: aborting
